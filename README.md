@@ -31,4 +31,5 @@ User can also add some songs to the currently playing song list which will be te
 It also has search functionality which will the search the song and give the desired result.
 It contains a interactive UI which allows user to control the songs. 
 
-Technologies used: Java, Android Studio
+Technologies used: Java
+Code Editor: Android Studio
